@@ -1,0 +1,21 @@
+{
+  "name": "yapo_heroes",
+  "version": "1.0.0",
+  "description": "Test Heroes Yapo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Alejandro Cavieres",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "xhr-mock": "^2.5.1"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0",
+    "serve": "^11.3.0"
+  }
+}
