@@ -26,7 +26,7 @@ docker run -it -p 5000:5000 yapo_heroes
 6. Navegar en el browser a la direccion:  
    http://localhost:5000
 7. Al ingresa texto debe desplegar listado de coincidencias:  
-![CAPTURA](https://github.com/FIXDISC/yapo_heroes/tree/main/test.PNG)
+![CAPTURA](img/test.PNG)
    
 
 ## TESTING
@@ -34,4 +34,4 @@ Generar pruebas desde la linea de comandos :
 ```sh
 C:\ACM_TEST\yapo_api> npm test
 ```
-![TEST](https://github.com/FIXDISC/yapo_heroes/tree/main/CAPTURA.PNG)
+![TEST](img/Captura.PNG)
