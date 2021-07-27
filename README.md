@@ -31,7 +31,7 @@ C:\ACM_TEST\yapo_heroes> docker run -it -p 5000:5000 yapo_heroes
 ```sh
 C:\ACM_TEST\yapo_heroes> npm start
 ```
-   http://localhost:5000
+   http://localhost:5000   
 7. Al ingresa texto debe desplegar listado de coincidencias:  
    
 
