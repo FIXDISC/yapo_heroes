@@ -25,9 +25,12 @@ C:\ACM_TEST\yapo_heroes> docker build -t yapo_heroes .
 ```
 5. Desplegar la imagen con el proyecto:
 ```sh
-docker run -it -p 5000:5000 yapo_heroes
+C:\ACM_TEST\yapo_heroes> docker run -it -p 5000:5000 yapo_heroes
 ```
-6. Navegar en el browser a la direccion:  
+6. Iniciar el proyecto y navegar en el browser a la url (http://localhost:5000): 
+```sh
+C:\ACM_TEST\yapo_heroes> npm start
+```
    http://localhost:5000
 7. Al ingresa texto debe desplegar listado de coincidencias:  
    
