@@ -1,4 +1,4 @@
-# YAPO_API
+# YAPO_HEROES
 
 ## PRE-REQUISITOS
 - Git
@@ -26,4 +26,10 @@ docker run -it -p 5000:5000 yapo_heroes
 6. Navegar en el browser a la direccion:  
    http://localhost:5000
 7. Al ingresa texto debe desplegar listado de coincidencias:   
-   PI (8): 3.14159265  (Donde 8 es el numero random de decimales) 
+   
+
+## TESTING
+Generar pruebas desde la linea de comandos :
+```sh
+C:\ACM_TEST\yapo_api> npm test
+```
