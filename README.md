@@ -12,9 +12,12 @@
 ```sh
 C:\ACM_TEST> git clone https://github.com/FIXDISC/yapo_heroes.git
 ```
-3. Acceder a la carpeta del proyecto yapo_heroes :
+3. Acceder a la carpeta del proyecto yapo_heroes e instalar dependencias :
 ```sh
 cd C:\ACM_TEST\yapo_heroes\
+```
+```sh
+C:\ACM_TEST\yapo_heroes> npm install
 ```
 4. Generar el contenedor :
 ```sh
