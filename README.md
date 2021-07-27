@@ -1,5 +1,5 @@
 # YAPO_HEROES
-![CAPTURA](img/test.PNG)
+![TEST](img/Captura.PNG)
 
 ## PRE-REQUISITOS
 - Git
@@ -34,4 +34,5 @@ Generar pruebas desde la linea de comandos :
 ```sh
 C:\ACM_TEST\yapo_api> npm test
 ```
-![TEST](img/Captura.PNG)
+![CAPTURA](img/test.PNG)
+
