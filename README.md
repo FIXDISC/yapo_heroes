@@ -21,7 +21,7 @@ C:\ACM_TEST\yapo_heroes> npm install
 ```
 4. Generar el contenedor :
 ```sh
-C:\ACM_TEST\yapo_api> docker build -t yapo_heroes .
+C:\ACM_TEST\yapo_heroes> docker build -t yapo_heroes .
 ```
 5. Desplegar la imagen con el proyecto:
 ```sh
